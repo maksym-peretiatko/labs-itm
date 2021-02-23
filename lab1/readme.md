@@ -15,6 +15,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 choco install git -y
 ```
+3. 1. Run git bash in your folder
 
 4. Configure your git:
 ```
