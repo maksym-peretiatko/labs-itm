@@ -77,3 +77,9 @@ Here are some ideas to get you started:
 
 You can use this sujestions or create your own profile.
 
+4. Upload your profile:
+```
+git add .
+git commit -m "Add your comment"
+git push
+
