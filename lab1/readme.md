@@ -35,7 +35,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 - зкопіюйте /c/Users/you/.ssh/id_ed25519.pub 
 - перейдіть за посиланням https://github.com/settings/keys
 - натисніть зелену кнопку
-![](Screenshot_2.png)
+![](https://github.com/maksym-peretiatko/labs-itm/blob/labs-en/lab1/Screenshot_2.png)
 
 - Вставте зкопійований ключ та натисніть відповідну кнопку
 ![](.\Screenshot_3.png)
