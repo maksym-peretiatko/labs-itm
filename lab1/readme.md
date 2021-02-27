@@ -81,7 +81,12 @@ Here are some ideas to get you started:
 
 You can use these suggestions or create your own profile.
 
-4. Upload your profile:
+4. Write about yourself
+- What would you like to work with;
+- What is your hobby;
+- Add links to your social networks and resources that you see fit
+
+5. Upload your profile:
 ```
 git add .
 git commit -m "Add your comment"
